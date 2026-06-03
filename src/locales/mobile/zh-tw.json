@@ -116,8 +116,14 @@
         "noGlueData": "找不到退回膠桶資料。",
         "loadError": "無法取得退回膠桶 QR 資訊，請檢查 API 連線！",
         "returnSuccess": "退回成功",
-        "returnConfirmError": "無法建立退回膠桶紀錄，請再試一次！"
-      }
+        "returnConfirmError": "無法建立退回膠桶紀錄，請再試一次！",
+        "loadingInfo": "正在載入資訊...",
+        "invalidLineQr": "QR Code 無效，請重新掃描產線膠桶 QR Code。",
+        "noLineData": "找不到產線膠桶資料。",
+        "loadLineError": "無法取得產線膠桶 QR 資訊，請檢查 API 連線！"
+      },
+      "lineQrTitle": "產線膠桶 QR Code（選填）",
+      "lineScanPlaceholder": "掃描產線膠桶 QR Code"
     },
     "glueInfoCheck": {
       "title": "膠桶資訊查詢",
