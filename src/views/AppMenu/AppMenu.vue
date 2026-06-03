@@ -162,6 +162,14 @@ const mobileFeatures = computed(() => [
     bgLight: '#ede9fe'
   },
   {
+    path: '/mobile/glue-check-list',
+    title: t('mobile.appMenu.glueCheckList'),
+    description: t('mobile.appMenu.glueCheckListDescription'),
+    icon: checkmarkDoneOutline,
+    color: '#10b981',
+    bgLight: '#d1fae5'
+  },
+  {
     path: '/mobile/glue-info-check',
     title: t('mobile.appMenu.glueInfoCheck'),
     description: t('mobile.appMenu.glueInfoCheckDescription'),
